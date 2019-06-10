@@ -1,0 +1,12 @@
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\bin\iPhoneSimulator\Debug\App3.exe
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\bin\iPhoneSimulator\Debug\App3.pdb
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\App3.csprojAssemblyReference.cache
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\App3.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\App3.exe
+C:\Users\VAIO\Documents\Visual Studio 2017\Projects\App3\App3\obj\iPhoneSimulator\Debug\App3.pdb
